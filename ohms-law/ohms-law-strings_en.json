@@ -1,15 +1,15 @@
 {
   "ohms-law.title": {
-    "value": "Ohm's Law"
+    "value": "Ohm's Law/部分电路欧姆定律 - 初中物理"
   },
   "current": {
-    "value": "current"
+    "value": "电流"
   },
   "resistance": {
-    "value": "resistance"
+    "value": "电阻"
   },
   "voltage": {
-    "value": "voltage"
+    "value": "电压"
   },
   "voltageSymbol": {
     "value": "V"
@@ -24,18 +24,18 @@
     "value": "V"
   },
   "currentUnits": {
-    "value": "mA"
+    "value": "mA/毫安"
   },
   "currentAmpUnits": {
-    "value": "A"
+    "value": "A/安培"
   },
   "units": {
-    "value": "Units"
+    "value": "单位"
   },
   "milliampsMA": {
-    "value": "Milliamps (mA)"
+    "value": "毫安"
   },
   "ampsA": {
-    "value": "Amps (A)"
+    "value": "安培"
   }
 }
