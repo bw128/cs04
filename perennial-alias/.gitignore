@@ -1,0 +1,16 @@
+.idea/
+build/
+node_modules/
+*.iml
+.DS_Store
+.DS_Store?
+*.sublime-project
+*.sublime-workspace
+.eslintcache
+build-server.log
+lintreport.txt
+js/build-server/tmp*
+.maintenance.json
+logs/
+.build-server-queue
+temp.js
